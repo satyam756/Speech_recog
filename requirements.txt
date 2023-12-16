@@ -1,0 +1,5 @@
+youtube-dl
+pafy
+SpeechRecognition
+python-vlc
+beautifulsoup4
